@@ -1,0 +1,19 @@
+{
+  "items": {
+    "item1": {
+      "name": "Mr. Potato Head",
+      "type": "toy",
+      "size": "medium",
+      "location": "Attic",
+      "image": "https://static.turbosquid.com/Preview/2018/02/23__03_30_44/MrPotatoHeadvray3dmodel001.jpgA15DBBB1-4004-4213-A8DC-F596F8806983Default.jpg"
+    },
+    "item2": {
+      "name": "Slinky",
+      "type": "toy",
+      "size": "medium",
+      "location": "Bedroom 1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81TY4t-1gzL._SX425_.jpg"
+    }
+  }
+}
+
