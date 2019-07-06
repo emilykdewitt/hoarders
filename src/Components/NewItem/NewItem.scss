@@ -1,0 +1,13 @@
+body {
+  background: pink;
+  margin: 0 auto;
+}
+
+.NewItem {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  input {
+    border-radius: 5px;
+  }
+}
